@@ -1,0 +1,20 @@
+body{
+    background-color: azure;
+}
+thead, tbody, tr, th, td, caption{
+    border: 2px solid rgb(83, 56, 83);
+}
+caption{
+    font-size: 20px;
+    background-color: rgb(229, 215, 241);
+    margin: 3px;
+}
+th{
+    text-align: center;
+    background-color: rgb(210, 195, 223);
+    margin: 2px;
+}
+td{
+    text-align: center;
+    background-color: white;
+}
